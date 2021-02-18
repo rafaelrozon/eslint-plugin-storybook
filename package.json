@@ -1,7 +1,11 @@
 {
   "name": "eslint-plugin-storybook",
-  "version": "0.1.0",
-  "description": "Eslint rules for Storybook Best Practices ",
+  "version": "0.1.1",
+  "description": "ESlint rules for Storybook Best Practices ",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rafaelrozon/eslint-plugin-storybook"
+  },
   "keywords": [
     "eslint",
     "eslintplugin",
